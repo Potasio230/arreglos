@@ -13,3 +13,5 @@ estudiante = [ { 'nombre' : "maxi", 'edad' : 20, 'curso' : "2A"},
 #tenemos que especificar el valor en concreto que queremos que salga
 
 print(estudiante [0] ['curso'])
+
+#hola soy el profe
